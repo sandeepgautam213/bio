@@ -1,0 +1,7 @@
+# Local files and unused assets
+.DS_Store
+__pycache__/
+*.pyc
+assets/Sandeep_Gautam_Resume.pdf
+assets/sandeep-gautam.jpeg
+assets/sandeep-portrait.jpg
